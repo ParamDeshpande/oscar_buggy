@@ -31,7 +31,7 @@ netifaces==0.10.4
 numpy==1.19.2
 olefile==0.45.1
 onboard==1.4.1
-opencv-contrib-python==4.2.0.34
+opencv-contrib-python==4.1.1.26
 packaging==20.4
 pexpect==4.2.1
 Pillow==7.2.0
