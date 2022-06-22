@@ -28,7 +28,7 @@ louis==3.5.0
 matplotlib==3.3.0
 mccabe==0.6.1
 netifaces==0.10.4
-numpy==1.19.2
+numpy==1.22.0
 olefile==0.45.1
 onboard==1.4.1
 opencv-contrib-python==4.2.0.34
